@@ -12,8 +12,7 @@ On Heroku: https://jpa03-jasonrdunne.herokuapp.com
 
 On Codecov: https://codecov.io/gh/ucsb-cs156-s21/jpa03-cgaucho
 
-[![codecov](https://codecov.io/gh/ucsb-cs156-s21/jpa03-cgaucho/branch/main/graph/badge.svg)](https://codecov.io/gh/ucsb-cs156-s21/jpa03-cgaucho)
-
+[![codecov](https://codecov.io/gh/ucsb-cs156-s21/jpa03-ucsbjasonrdunne/branch/main/graph/badge.svg?token=I0fvGZiaYR)](https://codecov.io/gh/ucsb-cs156-s21/jpa03-ucsbjasonrdunne)
 
 ## Integrations
 
